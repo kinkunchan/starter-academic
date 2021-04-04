@@ -48,3 +48,7 @@ body {
 .site-footer {
     color: rgba(0, 0, 0, 0.24);
 }
+
+.page-wrapper {
+    min-height: calc(100vh - 50px);
+}
