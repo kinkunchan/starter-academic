@@ -1,0 +1,50 @@
+:root {
+    --blue: #1e90ff;
+    --white: #ffffff;
+    --nav_height: 45;
+  }
+
+.article-container {
+    max-width: 600px;
+    padding: 0 20px 0 20px;
+    margin: 0 auto 0 auto;
+    font-size: 20px;
+  }
+
+.navbar {
+    height: var(--nav_height)px;
+    background: $sta-menu-primary;
+  /* this is the part that takes out the shadow & the only edit */
+    font-size: 16px;
+    font-weight: 800 !important;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    padding: 0.1rem;}
+
+.navbar-brand{
+    font-size: 16px;
+}
+
+.avatar {
+    width: 175px;
+    height: 175px;
+}
+
+.fa-2x {
+    margin-top: 0.25em;
+    font-size:1.4rem;
+}
+
+.big-icon {
+    font-size: 1.4rem; }
+
+body {
+    margin-top: 50px;
+}
+
+.site-footer {
+    color: rgba(0, 0, 0, 0.24);
+}
