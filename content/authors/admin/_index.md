@@ -44,18 +44,18 @@ social:
 - icon: paper-plane
   icon_pack: far
   link: 'mailto:kinmark@umich.edu'
-- icon: instagram
+- icon: linkedin-in
   icon_pack: fab
-  link: https://www.instagram.com/mearc.k/
+  link: https://www.linkedin.com/in/junchen-jin/
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=y8YVvSAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/kinkunchan
-- icon: linkedin-in
+- icon: instagram
   icon_pack: fab
-  link: https://www.linkedin.com/in/junchen-jin/
+  link: https://www.instagram.com/mearc.k/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
