@@ -1,7 +1,7 @@
 :root {
     --blue: #1e90ff;
     --white: #ffffff;
-    --nav_height: 45;
+    --nav_height: 50;
   }
 
 .article-container {
@@ -12,7 +12,7 @@
   }
 
 .navbar {
-    height: var(--nav_height)px;
+    height: 50px;
     background: $sta-menu-primary;
   /* this is the part that takes out the shadow & the only edit */
     font-size: 16px;
@@ -22,7 +22,7 @@
     right: 0;
     left: 0;
     z-index: 1030;
-    padding: 0rem;}
+    padding: 0 2rem;}
 
 .navbar-brand{
     font-size: 16px;

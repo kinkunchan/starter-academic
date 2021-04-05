@@ -57,7 +57,7 @@ subtitle = ""
 
 - #### 2020.08.07
 
-  > Graduated from Shanghai Jiao Tong University Joint Institute.
+  > Graduated from Shanghai Jiao Tong University.
 
 - #### 2019.12.18
 
