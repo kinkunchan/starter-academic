@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Mark Jin 金君晨 # Website name
-baseurl: 'https://mark-jin.com/mark.jin.io # Website URL
+baseurl: 'https://mark-jin.com/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
